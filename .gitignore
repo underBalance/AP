@@ -1,0 +1,17 @@
+# Buildozer / Android
+.buildozer/
+bin/
+*.apk
+
+# Logs
+*.log
+log.txt
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtualenv (si existe)
+venv/
+.env/
