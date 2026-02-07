@@ -1,3 +1,9 @@
+"""
+Copyright (c) 2026 Gabriel Olmedilla Barrientos
+Licensed under the MIT License.
+"""
+
+
 from kivy.app import App
 from kivy.uix.boxlayout import BoxLayout
 from kivy.uix.button import Button
@@ -8,6 +14,7 @@ from kivy.metrics import dp, sp
 from functools import partial
 import random
 import json
+
 
 
 class JuegoLayout(BoxLayout):
